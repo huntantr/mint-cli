@@ -1,5 +1,5 @@
 # Plans
-Want to create a KDE Plasme desktop widget to show bugdet progress.
+Want to create a KDE Plasma desktop widget to show bugdet progress.
 
 
 # mint-cli

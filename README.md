@@ -1,3 +1,7 @@
+# Plans
+Want to create a KDE Plasme desktop widget to show bugdet progress.
+
+
 # mint-cli
 Terminal interface for the Intuit Mint budget system
 Displays account net worth, emergency budget and current monthly budget.
